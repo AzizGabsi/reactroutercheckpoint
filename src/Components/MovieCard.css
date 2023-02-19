@@ -1,0 +1,21 @@
+@import 'mdb-ui-kit/css/mdb.min.css';
+
+
+
+.poster {
+    width: 250px;
+}
+
+.card{
+    justify-content: space-around;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.description{
+    width: 410px;
+}

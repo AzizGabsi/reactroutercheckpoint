@@ -1,0 +1,12 @@
+.detail{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.trailerVid{
+margin:auto;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
